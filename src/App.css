@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.marked {
+  text-decoration: line-through;
+}
+span {
+  margin-right: 10px;
+}
+
+.clickAll {
+  color: red;
+}
+.clickProcessing {
+  color: red;
+}
+.clickDone {
+  color: red;
+}
